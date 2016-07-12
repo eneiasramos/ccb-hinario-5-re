@@ -1,6 +1,6 @@
-#Hinário nº 5 CCB em Ré (trompete piccolo e requinta)
+#Hinário nº 5 CCB em Ré (trompete piccolo e clarinete piccolo/requinta)
 
-Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Ré como o trompete piccolo e requinta.
+Este projeto é uma iniciativa que visa o desenvolvimento de um Hinário nº 5 da CCB para instrumentos afinados em Ré como o trompete piccolo e clarinete piccolo (requinta).
 O objetivo é disponbilizar, em formato digital, uma versão em ré do hinário original em dó.
 
 <h2>Novidades</h2>
