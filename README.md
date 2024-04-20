@@ -31,16 +31,16 @@ Versões demonstrativas dos hinos podem ser encontradas no link:
 
 <h2>Outros Hinários</h2>
 
-* [Hinário em Dó](https://github.com/eneiasramos/ccb-hinario-5-do)
 * [Hinário em Mi bemol - 2ª Clave de Sol](https://github.com/eneiasramos/ccb-hinario-5-mib-2s)
 * [Hinário em Fá](https://github.com/eneiasramos/ccb-hinario-5-fa)
 * [Hinário em Sol](https://github.com/eneiasramos/ccb-hinario-5-sol)
 * [Hinário em Lá](https://github.com/eneiasramos/ccb-hinario-5-la)
 * [Hinário em Si bemol](https://github.com/eneiasramos/ccb-hinario-5-sib)
+* [Hinário em Dó](https://github.com/eneiasramos/ccb-hinario-5-do)
 
 ---
 
-Copyright © 2016 Enéias Ramos de Melo. Todos os direitos reservados.
+Copyright © 2016 - 2024 Enéias Ramos de Melo. Todos os direitos reservados.
 
 **ATENÇÃO: Esse projeto não tem nenhum tipo de vínculo com a CCB.**
 
